@@ -1,0 +1,5 @@
+Credentials cache: API:035219CC-3A63-4936-8A69-6C2FDFF636D5
+        Principal: juspende@42.FR
+
+  Issued                Expires               Principal
+Jul  3 09:20:14 2017  Jul 10 09:19:35 2017  krbtgt/42.FR@42.FR

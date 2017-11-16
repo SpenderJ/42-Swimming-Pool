@@ -1,0 +1,1 @@
+ldapsearch -LLLQ 'sn=*bon*' sn | sed '/^sn/ d' | cut -c 5- | wc -w | bc
