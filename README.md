@@ -34,5 +34,5 @@
         - Rush 02 : 0/100
         
 ## Final Project : BSQ
-        - BSA : 100/100
+        - BSQ : 100/100
         
